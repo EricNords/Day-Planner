@@ -1,0 +1,94 @@
+{"commitments": [
+    {
+        "date": "11/18/22",
+        "assignments": [
+            {
+                "date": "11/21/22",
+                "name": "Webwork 10",
+                "time": 2359
+            },
+            {
+                "date": "11/18/22",
+                "name": "Remove ",
+                "time": 100
+            }
+        ],
+        "name": "MATH 200",
+        "location": "CHEM B250",
+        "time": 900
+    },
+    {
+        "date": "11/18/22",
+        "assignments": [
+            {
+                "date": "11/18/22",
+                "name": "P3",
+                "time": 2200
+            },
+            {
+                "date": "11/28/22",
+                "name": "Lab 8",
+                "time": 2200
+            },
+            {
+                "date": "11/17/22",
+                "name": "Lecture Ticket ",
+                "time": 2359
+            }
+        ],
+        "name": "CPSC 210",
+        "location": "CIRS 1250",
+        "time": 1100
+    },
+    {
+        "date": "11/18/22",
+        "assignments": [],
+        "name": "MATH 221",
+        "location": "LSK 200",
+        "time": 1300
+    },
+    {
+        "date": "11/17/22",
+        "assignments": [{
+            "date": "11/28/22",
+            "name": "Paper 2",
+            "time": 2359
+        }],
+        "name": "POLI 260",
+        "location": "BUCH A101",
+        "time": 1530
+    },
+    {
+        "date": "11/17/22",
+        "assignments": [{
+            "date": "11/17/22",
+            "name": "Bring the lamb sauce",
+            "time": 1800
+        }],
+        "name": "Dinner with parents",
+        "location": "Home",
+        "time": 1830
+    },
+    {
+        "date": "11/18/22",
+        "assignments": [{
+            "date": "11/29/22",
+            "name": "Remove",
+            "time": 1200
+        }],
+        "name": "Remove",
+        "location": "Remove",
+        "time": 1200
+    },
+    {
+        "date": "11/28/22",
+        "assignments": [{
+            "date": "11/28/22",
+            "name": "Review Notes",
+            "time": 1430
+        }],
+        "name": "Advising Meeting",
+        "location": "Zoom",
+        "time": 1500
+    }
+]}

@@ -1,0 +1,24 @@
+{"commitments": [
+    {
+        "date": "10/21/2022",
+        "assignments": [{
+            "date": "testb",
+            "name": "testa",
+            "time": 1
+        }],
+        "name": "CPSC 210",
+        "location": "CIRS",
+        "time": 1100
+    },
+    {
+        "date": "10/23/2022",
+        "assignments": [{
+            "date": "testb",
+            "name": "testa",
+            "time": 1
+        }],
+        "name": "Dinner with the fam",
+        "location": "Casa",
+        "time": 1800
+    }
+]}
